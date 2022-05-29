@@ -148,12 +148,9 @@
     <string name="thermal_title">Perfis de otimização</string>
     <string name="thermal_summary">Ajustar perfis por aplicação para um melhor desempenho</string>
     <string name="thermal_default">Sem otimização</string>
-    <string name="thermal_benchmark">Desempenho</string>
-    <string name="thermal_browser">Navegador</string>
     <string name="thermal_camera">Câmara</string>
     <string name="thermal_dialer">Marcador</string>
-    <string name="thermal_gaming">Jogos</string>
-    <string name="thermal_streaming">Aplicações de transmissão</string>
+    <string name="thermal_performance">Desempenho</string>
     <string name="raise_to_wake_gesture_title">Elevar para acordar</string>
     <string name="raise_to_wake_gesture_summary">Acordar dispositivo em vez de notificação pulsannte</string>
     <string name="device_min_refresh_rate">Taxa mínima de atualização</string>
@@ -200,10 +197,6 @@
     <string name="refresh_title">Taxa de atualização por aplicação</string>
     <string name="refresh_summary">Definir uma taxa de atualização específica para cada aplicação</string>
     <string name="refresh_default">Padrão</string>
-    <string name="refresh_low">Baixa (30Hz)</string>
-    <string name="refresh_medium">Média (60Hz)</string>
-    <string name="refresh_high">Alta (90Hz)</string>
-    <string name="refresh_extreme">Extrema (120Hz)</string>
     <string name="powershare_enable_title">Partilha de bateria</string>
     <string name="powershare_enable_summary">Carregar outros dispositivos colocando-os na parte de trás do seu telefone</string>
 </resources>
