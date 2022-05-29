@@ -287,4 +287,8 @@
     <!-- Powershare -->
     <string name="powershare_enable_title">Battery Share</string>
     <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+
+    <!-- FPS Counter -->
+    <string name="fps_info_title">FPS Counter</string>
+
 </resources>
