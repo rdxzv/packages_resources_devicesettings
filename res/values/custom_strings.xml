@@ -22,8 +22,8 @@
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
 
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
-    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_enable">Enable audio optimizer</string>
+    <string name="dirac_title">Dirac</string>
     <string name="dirac_summary">Optimize audio quality</string>
     <string name="dirac_headset_title">Choose headphones type</string>
     <string name="dirac_preset_title">Choose a preset</string>
@@ -77,7 +77,7 @@
     <string name="dirac_preset_soft_bass">Soft Bass</string>
     <string name="dirac_preset_soft_treble">Soft Treble</string>
 
-    <!-- Dirac Scene Selection -->
+    <!-- Dirac settings: MiSound Scenes -->
     <string name="music_headset_scenario_select">Select scene</string>
     <string name="music_headset_scenario_intelligent">Smart</string>
     <string name="music_headset_scenario_music">Music</string>
@@ -201,14 +201,14 @@
     <string name="notification_slider_mode_none">Normal</string>
 
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Per-app thermal and touchscreen profiles with game mode</string>
+    <string name="thermal_default">Default</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_performance">Performance</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">Streaming</string>
 
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Raise to wake</string>
@@ -226,7 +226,7 @@
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch screen optimizations</string>
     <string name="touch_game_mode_title">Enable game mode</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
+    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen and increasing the device performance</string>
     <string name="touch_response_title">Touch response</string>
     <string name="touch_response_summary">Controls touch response</string>
     <string name="touch_sensitivity_title">Touch sensitivity</string>
@@ -252,7 +252,7 @@
     <string name="lcd_features_title">Additional Display Features</string>
     <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
+    <string name="kernel_not_supported">The kernel do not support this feature</string>
 
     <string name="lcd_hbm_title">High Brightness Mode</string>
     <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
@@ -274,8 +274,8 @@
     <string name="doze_brightness_high">High brightness</string>
     <string name="doze_brightness_adaptive">Adaptive brightness</string>
 
-    <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
+    <!-- Per-app refresh rate -->
+    <string name="refresh_title">Per-app refresh rate</string>
     <string name="refresh_summary">Set a specific refresh rate for each application</string>
     <string name="refresh_default">Default</string>
     <string name="refresh_low">30 Hz</string>
